@@ -1,0 +1,43 @@
+              Number Guessing Game
+
+A simple command-line game where the player guesses a randomly generated number.
+
+     Features
+
+   1- Random number generation within a specific range.
+
+   2- Limited number of trials for guessing.
+
+   3- Feedback on each guess (e.g., too high, too low).
+
+   4- Displays the correct answer if all trials are exhausted.
+
+
+   How to Play ????
+
+1. Run the program.
+
+
+2. Enter your guesses for the random number.
+
+
+3. Continue until you guess correctly or run out of trials.
+
+
+
+     How to Run
+
+Compile the Game.java file.
+
+Run the program
+
+
+     Example Output
+
+Guess the number:
+70
+You have used all T trials.
+The number was 69.
+
+
+---
